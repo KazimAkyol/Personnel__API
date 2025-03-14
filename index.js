@@ -44,7 +44,7 @@ app.use(
 app.use(require("./src/middlewares/authentication"));
 
 // Logger
-app.use(require("./src/middlewares/logger"));
+// app.use(require("./src/middlewares/logger"));
 
 /* ------------------------------------------------------- *
 // Logger
